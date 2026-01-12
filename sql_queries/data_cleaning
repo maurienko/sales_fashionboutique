@@ -1,0 +1,6 @@
+SELECT * FROM optimal-sentry-467208-m0.fashiondataset4.hmdataset LIMIT 10;
+SELECT 
+    COUNT(*) AS total_rows,
+    SUM(CASE WHEN brand IS NULL THEN 1 ELSE 0 END) AS missing_brands,
+    SUM(CASE WHEN current_price IS NULL THEN 1 ELSE 0 END) AS missing_prices
+FROM optimal-sentry-467208-m0.fashiondataset4.hmdataset;
