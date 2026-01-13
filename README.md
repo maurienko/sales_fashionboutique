@@ -1,4 +1,4 @@
-# 📊 Fashion Retail Analytics: SQL Case Study (BigQuery Studio)
+#  Fashion Retail Analytics: SQL Case Study
 
 ## 📝 Project Overview
 This project features an end-to-end **SQL analysis** of a fashion retail dataset containing **2,176 records**. Using **BigQuery Studio**, I explored sales performance, seasonal trends, and return patterns across 8 major fashion brands to provide strategic, data-backed business recommendations.
