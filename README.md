@@ -3,6 +3,10 @@
 ## 📝 Project Overview
 This project features an end-to-end **SQL analysis** of a fashion retail dataset containing **2,176 records**. Using **BigQuery Studio**, I explored sales performance, seasonal trends, and return patterns across 8 major fashion brands to provide strategic, data-backed business recommendations.
 
+## 📊 Data Source
+The dataset used in this analysis is the **Retail Fashion Boutique Data & Sales Analytics 2025**, sourced from **Kaggle**:
+[https://www.kaggle.com/datasets/pratyushpuri/retail-fashion-boutique-data-sales-analytics-2025](https://www.kaggle.com/datasets/pratyushpuri/retail-fashion-boutique-data-sales-analytics-2025)
+
 ## 🛠️ Tech Stack
 * **Platform:** Google Cloud Platform (GCP) - BigQuery Studio
 * **Language:** SQL
